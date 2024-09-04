@@ -1,5 +1,11 @@
 import SwiftUI
 
+enum Field : String {
+    case name
+    case number
+    case email
+}
+
 struct ContactInfoView: View {
     @Environment(\.dismiss) private var dismiss
     
@@ -9,28 +15,11 @@ struct ContactInfoView: View {
 
     var body: some View {
         VStack(spacing:5) {
-            TextField("    Add a name", text: $viewModel.nameText)
-                .padding()
-                .background(.gray.opacity(0.2))
-                .clipShape(.capsule)
-                .padding()
-                .shadow(radius: 10)
+            createTextField(for: "    Add a name", field: .name)
 
-            TextField("    Add a number", text: $viewModel.numberText)
-                .padding()
-                .background(.gray.opacity(0.2))
-                .clipShape(.capsule)
-                .padding()
-                .keyboardType(.numberPad)
-                .shadow(radius: 10)
+            createTextField(for: "    Add a number", field: .number)
 
-            TextField("    Add an email", text: $viewModel.emailText)
-                .padding()
-                .background(.gray.opacity(0.2))
-                .clipShape(.capsule)
-                .padding()
-                .keyboardType(.numberPad)
-                .shadow(radius: 10)
+            createTextField(for: "    Add an email", field: .email)
 
             Button(action: {
                 Task {
@@ -54,6 +43,34 @@ struct ContactInfoView: View {
         }
     }
     
+    func createTextField(for title: String, field: Field) -> some View {
+        switch field {
+        case .name:
+            return TextField(title, text: $viewModel.nameText)
+                .padding()
+                .background(.gray.opacity(0.2))
+                .clipShape(.capsule)
+                .padding()
+                .keyboardType(.numberPad)
+                .shadow(radius: 10)
+        case .email:
+            return TextField(title, text: $viewModel.emailText)
+                .padding()
+                .background(.gray.opacity(0.2))
+                .clipShape(.capsule)
+                .padding()
+                .keyboardType(.numberPad)
+                .shadow(radius: 10)
+        case .number:
+            return TextField(title, text: $viewModel.numberText)
+                .padding()
+                .background(.gray.opacity(0.2))
+                .clipShape(.capsule)
+                .padding()
+                .keyboardType(.numberPad)
+                .shadow(radius: 10)
+        }
+    }
     
 }
 
