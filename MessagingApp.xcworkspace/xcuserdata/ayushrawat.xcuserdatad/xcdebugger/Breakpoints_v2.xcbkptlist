@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43406378-D3EC-46E5-839D-C710434F9EA3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDD1F91-6202-4398-93E0-56018E75E8EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/AuthenticationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "signOut()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53EE4B72-22FF-495A-9C1F-B2B3859DB05E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53EE4B72-22FF-495A-9C1F-B2B3859DB05E - 298bc01fd5594e58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "53EE4B72-22FF-495A-9C1F-B2B3859DB05E - 298bc01fd5594e58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - 298bc01fd5594e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - e5cc57abda60327b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - 32a7c06360b30446"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - 298bc01fd5594e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - f66605c5aacee878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A73480B1-C7E8-4C8D-AABD-FCA80678C4B9 - f66605c5aacee878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for MessagingApp.MainContactListViewModel.getData() async throws -&gt; ()"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/ContactList/ContactListViewModels/MainContactListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E595364A-2BDF-40A4-92CA-E9AB885C6E4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/ContactManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8889EAB8-2C4B-4F1D-9AA6-C02B3267CB0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/ContactManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getDocumentWithSnapshot(as:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8889EAB8-2C4B-4F1D-9AA6-C02B3267CB0F - 873e07846fcc6a43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "8889EAB8-2C4B-4F1D-9AA6-C02B3267CB0F - 8a503c6658ee3951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8889EAB8-2C4B-4F1D-9AA6-C02B3267CB0F - b8b6029a439629dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "8889EAB8-2C4B-4F1D-9AA6-C02B3267CB0F - df0a0c1f358ccf1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "109054A8-20E3-4B61-8C9F-FA6D541C1700"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/ContactManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getDocumentWithSnapshot(as:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62CA7042-4DC1-4664-924E-95F10DC89AA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/ContactManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getDocumentWithSnapshot(as:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E68E07A7-29FB-4EFC-8933-BDCAEDBAEB62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MessagingApp/Managers/ContactManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getDocumentWithSnapshot(as:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E68E07A7-29FB-4EFC-8933-BDCAEDBAEB62 - b8b6029a43962932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E68E07A7-29FB-4EFC-8933-BDCAEDBAEB62 - 2b03e161d1f3b1b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) throws -&gt; &#x3c4;_0_0 in __C.FIRQuery.getDocumentWithSnapshot&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(as: &#x3c4;_0_0.Type) async throws -&gt; (products: Swift.Array&lt;&#x3c4;_0_0&gt;, lastSnapshot: Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;)"
+                  moduleName = "MessagingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayushrawat/Desktop/ProjectsNotInGH/MessagingApp/MessagingApp/Managers/ContactManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
